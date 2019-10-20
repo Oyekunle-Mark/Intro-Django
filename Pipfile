@@ -10,6 +10,8 @@ pylint = "*"
 autopep8 = "*"
 django = "*"
 python-decouple = "*"
+djangorestframework = "*"
+django-cors-headers = "*"
 
 [requires]
 python_version = "3.7"
